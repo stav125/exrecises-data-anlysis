@@ -1,3 +1,3 @@
 # Practice in data anlysis
 
-deataild below
+details below
